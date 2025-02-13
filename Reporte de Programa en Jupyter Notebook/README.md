@@ -15,4 +15,4 @@ El objetivo de este proyecto es determinar cuál de los dos algoritmos es más e
 Para ejecutar este código, necesitas:
 - Python 3.x
 - Jupyter Notebook
-- Bibliotecas necesarias: `numpy` y `time`
+- Bibliotecas necesarias: `random` y `time`
