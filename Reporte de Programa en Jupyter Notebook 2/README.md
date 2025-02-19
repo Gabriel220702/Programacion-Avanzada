@@ -42,6 +42,5 @@ Para proyectos más avanzados, se pueden explorar redes neuronales multicapa o m
 2. Ingresa datos manualmente para evaluar nuevas solicitudes.  
 3. Analiza los resultados en la tabla generada.  
 
-📌 **Autor:** *[Tu Nombre]*  
-📌 **Licencia:** MIT  
+📌 **Autor:** *[Gabriel Carrizales]*  
 
