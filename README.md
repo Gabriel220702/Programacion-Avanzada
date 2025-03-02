@@ -50,20 +50,6 @@ Este repositorio contiene los códigos y proyectos desarrollados en la materia *
 
 ---
 
-## 🛠 **Cómo Usar Este Repositorio**  
-1. Clona el repositorio en tu máquina local:  
-   ```bash
-   git clone https://github.com/tu-usuario/programacion-avanzada.git
-   cd programacion-avanzada
-   ```
-2. Instala las dependencias necesarias:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Explora los directorios y ejecuta los scripts según el tema de interés.  
-
----
-
 
 🚀 **¡Sigamos programando y explorando nuevas tecnologías!**  
 
