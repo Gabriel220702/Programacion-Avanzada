@@ -1,7 +1,7 @@
 # 🚀 **Programación Avanzada**  
 
 ## 📌 **Autor:** Gabriel Carrizales  
-📍 **Institución:** Instituto Tecnológico Superior de Rioverde (ITSRLL)  
+📍 **Institución:** Instituto Tecnológico Superior de la Región de los Llanos (ITSRLL)  
 🎓 **Carrera:** Ingeniería Mecatrónica  
 
 ---
