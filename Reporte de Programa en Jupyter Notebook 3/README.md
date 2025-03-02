@@ -1,9 +1,7 @@
 # 📌 **Implementación de un Clasificador de Calificaciones Finales de Estudiantes - Naïve Bayes**
 
 ## 📖 **Descripción**  
-Este proyecto implementa un **Clasificador de Calificaciones Finales** de estudiantes utilizando el algoritmo **Naïve Bayes**. El objetivo es predecir la calificación final de los estudiantes basada en sus características académicas y personales. Se presentan dos versiones del código:  
-1. **Versión Básica:** Implementación inicial del clasificador Naïve Bayes para comprobar su funcionamiento con datos simples.  
-2. **Versión Optimizada:** Incluye mejoras en el preprocesamiento de datos, ajuste de hiperparámetros, y evaluación con métricas más detalladas.
+Este proyecto implementa un **Clasificador de Calificaciones Finales** de estudiantes utilizando el algoritmo **Naïve Bayes**. El objetivo es predecir la calificación final de los estudiantes basada en sus características académicas y personales.
 
 ## 🎯 **Objetivo**  
 El objetivo de este proyecto es aplicar el algoritmo **Naïve Bayes** para predecir la calificación final de los estudiantes, considerando características como horas de estudio, número de cursos completados y el puntaje en exámenes previos.
