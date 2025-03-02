@@ -57,10 +57,8 @@ Este repositorio contiene los códigos y proyectos desarrollados en la materia *
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44692bb6-525e-4351-b74e-da3e29d9e2d1" width="200"><br>
-  <img src="https://github.com/user-attachments/assets/527f2de1-e296-47e6-8068-30e5793aaef7" width="200"><br>
-  <img src="https://github.com/user-attachments/assets/f13729f0-91dc-42d9-b046-10563d534dd7" width="200"><br>
+  <img src="https://github.com/user-attachments/assets/44692bb6-525e-4351-b74e-da3e29d9e2d1" width="200">
+  <img src="https://github.com/user-attachments/assets/527f2de1-e296-47e6-8068-30e5793aaef7" width="200">
+  <img src="https://github.com/user-attachments/assets/f13729f0-91dc-42d9-b046-10563d534dd7" width="200">
   <img src="https://github.com/user-attachments/assets/ba4a20dc-a157-4912-86f8-0d0e96e55a8c" width="200">
 </p>
-
-
